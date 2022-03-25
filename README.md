@@ -1,4 +1,4 @@
 sampsharp-docker
 ================
 
-Based on https://github.com/Pyrax/samp-docker
+See `example/` for how to use this image.
