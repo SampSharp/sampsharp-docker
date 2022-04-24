@@ -3,7 +3,7 @@
 	"repo": "sample",
 	"output": "gamemodes/empty.amx",
 	"dependencies": [
-		"ikkentim/sampsharp:0.10.0-alpha2"
+		"ikkentim/sampsharp:0.10.1"
 	],
 	"local": true,
 	"runtime": {
